@@ -1,8 +1,6 @@
 ## Hi there 👋welcome
 
-## **Status**
-[![Anurag's GitHub stats](https://github-readme-stats-swart-nine-93.vercel.app/api?username=duduxx123&show_icons=true&theme=react)](https://github.com/forchannot/github-readme-stats)
-
+## **📘 Status**
 [![Top Langs](https://github-readme-stats-swart-nine-93.vercel.app/api/top-langs/?username=duduxx123&layout=compact)](https://github.com/forchannot/github-readme-stats)
 
 <!--
