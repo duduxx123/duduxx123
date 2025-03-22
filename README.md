@@ -1,7 +1,6 @@
 ## **📘 Status**
-- 🔭 I’m currently working on HAINNU
-- 🌱 I’m currently learning Computer Vision
-# 
+<!-- 🔭 I’m currently working on HAINNU
+- 🌱 I’m currently learning Computer Vision -->
 [![Top Langs](https://github-readme-stats-swart-nine-93.vercel.app/api/top-langs/?username=duduxx123&layout=compact)](https://github.com/forchannot/github-readme-stats)
 
 <!--
