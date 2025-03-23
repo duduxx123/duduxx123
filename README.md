@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!)](https://git.io/typing-svg)
 
 ## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
