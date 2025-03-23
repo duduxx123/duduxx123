@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!;Second+line+of+text)](https://git.io/typing-svg)
+
 ## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
 - 🌱 I’m currently learning Computer Vision -->
