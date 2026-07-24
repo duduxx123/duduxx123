@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!)](https://git.io/typing-svg)
 
-[[![:count](https://moe-counter.glitch.me/get/@duduxx123)](https://count.getloli.com/@count?name=count&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/@count?name=count&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![:count](https://count.getloli.com/@count?name=count&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
