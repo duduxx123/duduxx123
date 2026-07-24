@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!)](https://git.io/typing-svg)
 
-![:duduxx123](https://moe-counter.glitch.me/get/@:duduxx123)
+[![:count](https://moe-counter.glitch.me/get/@duduxx123)](https://count.getloli.com/@count?name=count&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
