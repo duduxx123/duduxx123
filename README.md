@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+!!!)](https://git.io/typing-svg)
 
+![Visitors](https://moe-counter.glitch.me/get/@duduxx123)
+
 ## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
 - 🌱 I’m currently learning Computer Vision -->
