@@ -2,7 +2,6 @@
 
 ![:count](https://count.getloli.com/@count?name=count&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-## **📘 Status**
 <!-- 🔭 I’m currently working on HAINNU
 - 🌱 I’m currently learning Computer Vision -->
 [![Top Langs](https://github-readme-stats-swart-nine-93.vercel.app/api/top-langs/?username=duduxx123&layout=compact)](https://github.com/forchannot/github-readme-stats)
